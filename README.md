@@ -1,7 +1,7 @@
 
 # Movie-Recommender
 
-Welcome to the movie recommendation system. I have built a clean and user friendly web interface that provides users with movie suggestions based on movies that they pick. The website is built based on content based movie recommendation. Please look at the instruction sections below to run the project. 
+Welcome to the movie recommendation system. I have built a clean and user friendly web interface that provides users with movie suggestions based on movies that they pick. The website is built based on content based movie recommendation. Please look at the instruction sections below to run the project.  
 
 #### Website link: [Click here](https://movie-recommender1111.herokuapp.com/)
 
