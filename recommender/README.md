@@ -1,9 +1,8 @@
 # Movie-Recommender
 
-Welcome to the movie recommendation system. I have built a clean and user friendly web interface that provides users with movie suggestions based on movies that they pick. The website is built using Flask application. Please look at the instruction sections below to run the project. 
+Welcome to the movie recommendation system. I have built a clean and user friendly web interface that provides users with movie suggestions based on movies that they pick. The website is built based on content based movie recommendation. Please look at the instruction sections below to run the project.  
 
-#### Website link: [Click Here](https://movie-recommender1111.herokuapp.com/)
-
+#### Website link: [Click here](https://movie-recommender1111.herokuapp.com/)
 
 ### Running the web application locally: 
 
@@ -13,19 +12,23 @@ git clone https://github.com/srishti666/Movie-Recommender.git
 ```
 
 Step 2: Install python:
- https://www.python.org/downloads/
+ [From Here](https://www.python.org/downloads/)
 
 
-Step 3: Install all package dependencies.
+Step 3: Install all package dependencies with the command
 ```python
 pip install requirements.txt
 ```
 
 
-Step 4: Run Flask app locally: (Copy link displayed on console on your preffered browser)
+Step 4: Run Flask app locally: 
+Open your terminal/command prompt from your project directory and run the following command
 ```python
 flask run
 ```
+
+Step 5: Navigate to the web app:
+Copy link displayed on console on your preffered browser
 
 
 ### Website Navigation Instructions:
@@ -36,6 +39,3 @@ Step 2:After the computation is finished. You will be redirected to the recommen
 Step 3:The new webpage shows all the search results. If the search is not found, please check the spelling an try agian. If the search is successful, find the movie that you want. You could also check the movie summary and its trailer by hovering over the movie poster.
 
 Step 4: To get recommendation for different movies, hit the HOME icon on the top left corner.
-
-
-
