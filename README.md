@@ -13,7 +13,7 @@ git clone https://github.com/srishti666/Movie-Recommender.git
 ```
 
 Step 2: Install python:
- https://www.python.org/downloads/
+ [From Here](https://www.python.org/downloads/)
 
 
 Step 3: Install all package dependencies with the command
