@@ -39,3 +39,6 @@ Copy link displayed on console on your preffered browser
 - The new webpage shows all the search results. If the search is not found, please check the spelling an try agian. If the search is successful, find the movie that you want. You could also check the movie summary and its trailer by hovering over the movie poster.
 
 - To get recommendation for different movies, hit the HOME icon on the top left corner.
+
+## Web App Workflow 
+![Workflow](https://user-images.githubusercontent.com/85846340/170843065-298d6781-9b43-4782-bd17-11743a72ae66.png)
