@@ -40,6 +40,3 @@ Step 2:After the computation is finished. You will be redirected to the recommen
 Step 3:The new webpage shows all the search results. If the search is not found, please check the spelling an try agian. If the search is successful, find the movie that you want. You could also check the movie summary and its trailer by hovering over the movie poster.
 
 Step 4: To get recommendation for different movies, hit the HOME icon on the top left corner.
-
-
-
