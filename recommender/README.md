@@ -21,7 +21,7 @@ pip install requirements.txt
 ```
 
 
-Step 4: Run Flask app locally: 
+Step 4: Run Flask app locally:\
 Open your terminal/command prompt from your project directory and run the following command
 ```python
 flask run
