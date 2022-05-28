@@ -16,16 +16,20 @@ Step 2: Install python:
  https://www.python.org/downloads/
 
 
-Step 3: Install all package dependencies.
+Step 3: Install all package dependencies with the command
 ```python
 pip install requirements.txt
 ```
 
 
-Step 4: Run Flask app locally: (Copy link displayed on console on your preffered browser)
+Step 4: Run Flask app locally: 
+Open your terminal/command prompt from your project directory and run the following command
 ```python
 flask run
 ```
+
+Step 5: Navigate to the web app:
+Copy link displayed on console on your preffered browser
 
 
 ### Website Navigation Instructions:
