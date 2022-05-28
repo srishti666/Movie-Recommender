@@ -11,12 +11,12 @@
 <style>
 
 @font-face {
-  font-family: 'Sucrose Bold Two';
+  font-family: 'Taviraj', serif;
   src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/sucrose.woff2") format("woff2");
 }
 @font-face {
   font-family: 'IM Fell French Canon Pro';
-  src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/im-fell-french-canon-pro.woff2") format("woff2");
+  src: url("https://fonts.googleapis.com/css2?family=Taviraj&display=swap");
 }
 * {
   box-sizing: border-box;
@@ -29,9 +29,10 @@ body{
   background-size: cover;
 
 }
+
 header {
 
-  font-family: 'Sucrose Bold Two';
+  font-family: 'Taviraj', serif;
 }
 header h1 {
 
@@ -43,7 +44,7 @@ header h1 {
   left:800px;
 }
 #popular{
-  font-family: 'Sucrose Bold Two';
+  font-family: 'Taviraj', serif;
   font-size: 3vw;
   line-height: .8;
   text-align: center;
@@ -229,8 +230,8 @@ img {
 }
 .card__content span,
 .card__content button {
-  font-family: 'Sucrose Bold Two';
-  src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/sucrose.woff2") format("woff2");
+  font-family: 'Taviraj', serif;
+  src: url("https://fonts.googleapis.com/css2?family=Taviraj&display=swap");
 font-size: 28px;
 }
 
@@ -263,9 +264,8 @@ font-size: 28px;
 <center><div class="wrap" >
    <div>
    <form class="search" action="{{ url_for('main') }}"  method="POST">
-       <input type="text" class="searchTerm" id="autoComplete" autocomplete="off" name="movie_name" placeholder="Enter a full movie name">
-       <button class="searchButton" type="submit"  value="Submit">
-       </button>
+       <input type="text" class="searchTerm" id="autoComplete" autocomplete="off" name="movie_name" placeholder="Enter the a movie name">
+       
    </form>
     <br>
  </div></center>
