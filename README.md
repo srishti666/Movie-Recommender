@@ -44,3 +44,7 @@ Copy link displayed on console on your preffered browser
 
 ## Web App Workflow 
 ![Workflow](https://user-images.githubusercontent.com/85846340/170843065-298d6781-9b43-4782-bd17-11743a72ae66.png)
+
+## Screenshots 
+![Screenshot (57)](https://user-images.githubusercontent.com/85846340/170863939-f08f9d6e-9230-474e-b4cf-8e95b9c6e3f0.png)
+
