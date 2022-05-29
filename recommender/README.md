@@ -1,7 +1,7 @@
 ![main](https://user-images.githubusercontent.com/85846340/170859527-3b17e49b-50e1-4f9a-b227-7995d19f4399.png)
 
 
-# The-Recommender
+# NETTYFLIX
 
 Welcome to the movie recommendation system. I have built a clean and user friendly web interface that provides users with movie suggestions based on movies that they pick. The website is built based on content based movie recommendation. Please look at the instruction sections below to run the project.  
 
