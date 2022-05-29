@@ -1,4 +1,4 @@
-![main](https://user-images.githubusercontent.com/85846340/170857004-52104083-41bf-4afe-981b-87b06d1133a9.png)
+![main](https://user-images.githubusercontent.com/85846340/170859527-3b17e49b-50e1-4f9a-b227-7995d19f4399.png)
 
 
 # NettyFlix
