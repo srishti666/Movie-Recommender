@@ -7,12 +7,14 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <link rel="stylesheet"
     href="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@7.2.0/dist/css/autoComplete.min.css">
-   <script type="text/javascript">
+  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+  <script type="text/javascript">
     var films = {{ suggestions| tojson}};
   </script>
   <style>
     @font-face {
-      font-family: 'Sucrose Bold Two';
+      font-family: 'Taviraj', serif;
       src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/sucrose.woff2") format("woff2");
     }
 
@@ -35,7 +37,7 @@
 
     header {
 
-      font-family: 'Sucrose Bold Two';
+      font-family: 'Taviraj', serif;
     }
 
     header h1 {
@@ -44,12 +46,12 @@
       line-height: .8;
       top: 20px;
       text-align: center;
-      color: rgb(249, 5, 5);
+      color: rgb(241, 19, 19);
       left: 800px;
     }
 
     #popular {
-      font-family: 'Sucrose Bold Two';
+      font-family: 'Taviraj', serif;
       font-size: 3vw;
       line-height: .8;
       text-align: center;
@@ -251,7 +253,7 @@
 
     .card__content span,
     .card__content button {
-      font-family: 'Sucrose Bold Two';
+      font-family: 'Taviraj', serif;
       src: url("https://fonts.googleapis.com/css2?family=Taviraj&display=swap");
       font-size: 28px;
     }
@@ -281,7 +283,7 @@
 <body>
 
   <header>
-    <h1>NettyFlix</h1>
+    <h1>The Recommender</h1>
   </header>
   <center>
     <div class="wrap">
@@ -390,6 +392,29 @@
           document.getElementById('image4').style.backgroundSize = "cover";
         });
 
+        <section class="social">
+        <div class="container">
+          <div class="fact-box">
+            <div class="row">
+              <div class = "col-lg col-6 single-fact">
+                <i class="fa-brands fa-instagram"></i>
+                </div>
+              <div class = "col-lg col-6 single-fact">
+                <i class="fa-brands fa-youtube"></i>
+                </div>
+              <div class = "col-lg col-6 single-fact">
+                <i class="fa-brands fa-github"></i>
+                </div>
+              <div class = "col-lg col-6 single-fact">
+                <i class="fa-brands fa-linkedin"></i>
+                </div>
+              <div class = "col-lg col-6 single-fact">
+                <i class="fa-brands fa-twitter"></i>
+                </div>
+            </div>
+          </div>
+        </div>
+      </section>
 
     </script>
 </body>
